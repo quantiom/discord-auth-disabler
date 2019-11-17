@@ -1,5 +1,6 @@
 ## Discord Auth Disabler
 Disables 2FA and email verification on discord accounts.
+https://www.youtube.com/watch?v=YG_4AFuXbRo
 
 ## Requirements
 - `node` (https://nodejs.org)
