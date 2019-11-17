@@ -1,0 +1,24 @@
+{
+	"name": "discord-auth-disabler",
+	"version": "1.0.0",
+	"description": "Disables 2FA and email verification on discord accounts.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/quantiom/discord-auth-disabler.git"
+	},
+	"author": "quantiom",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/quantiom/discord-auth-disabler/issues"
+	},
+	"homepage": "https://github.com/quantiom/discord-auth-disabler#readme",
+	"dependencies": {
+		"readline-promise": "^1.0.4",
+		"request": "^2.88.0",
+		"request-promise": "^4.2.5"
+	}
+}
