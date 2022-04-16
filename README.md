@@ -14,6 +14,3 @@ cd discord-auth-disabler
 npm install # or use yarn
 node index.js
 ```
-
-## Contact
-Discord - quantiom#0001
