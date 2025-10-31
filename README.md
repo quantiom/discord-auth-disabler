@@ -1,3 +1,6 @@
+# Disclaimer
+I already reported this bug to Discord and it was fixed many years ago. This repository is only here for educational and research purposes.
+
 ## Discord Auth Disabler
 Disables 2FA and email verification on discord accounts.
 https://www.youtube.com/watch?v=YG_4AFuXbRo
